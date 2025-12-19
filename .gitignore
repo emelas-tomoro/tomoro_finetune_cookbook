@@ -1,0 +1,14 @@
+# environment file
+.env
+
+# adapters fine-tuned
+adapters/
+
+# local data
+data
+
+# downloaded base models
+models/
+
+# macOS Finder metadata
+.DS_Store
